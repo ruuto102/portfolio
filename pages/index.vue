@@ -1,5 +1,5 @@
 <template>
-  <div class="font-bold p-5">
-    portfolio
-  </div>
+    <div>
+      <h1>portfolio</h1>
+    </div>
 </template>

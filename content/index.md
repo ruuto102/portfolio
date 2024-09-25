@@ -1,6 +1,5 @@
-
 ---
-title: 'about page'
+title: 'Index page'
 description: 'foo'
 ---
 

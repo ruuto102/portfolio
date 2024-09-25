@@ -5,13 +5,15 @@ export default defineNuxtConfig({
       title: 'MY PORTFOLIO'
     }
   },
-
   $development: {
     app: {
       head: {
         title: 'DEV'
       }
     }
+  },
+  tailwindcss: {
+    cssPath: '~/assets/css/tailwind.css',
   },
   compatibilityDate: '2024-09-24',
   devtools: { enabled: true },
