@@ -1,6 +1,5 @@
 ---
-title: 'about page'
-description: 'foo'
+title: 'テスト'
 postedAt: 2021-08-14
 ---
 

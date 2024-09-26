@@ -1,5 +1,6 @@
 ---
-title: 'about page'
+title: 'はじめまして'
+description: 'foo'
 postedAt: 2021-08-14
 ---
 
