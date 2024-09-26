@@ -1,6 +1,8 @@
 <template>
-    <div>
+    <div class="text-gray-800">
       <Header />
-      <slot />
+      <div>
+        <slot />
+      </div>
     </div>
 </template>

@@ -17,7 +17,7 @@ export default defineNuxtConfig({
   },
   compatibilityDate: '2024-09-24',
   devtools: { enabled: true },
-  modules: ['@nuxt/content', '@nuxtjs/tailwindcss'],
+  modules: ['@nuxt/content', '@nuxtjs/tailwindcss', '@nuxt/image'],
   content: {
     api: {
       baseURL: '/api/_my_content'

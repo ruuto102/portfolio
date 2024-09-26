@@ -1,5 +1,9 @@
 <template>
-    <div>
-      <h1>portfolio</h1>
-    </div>
+  <div class="">
+    <Hero />
+  </div>
 </template>
+
+<style>
+
+</style>
