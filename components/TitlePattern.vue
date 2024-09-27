@@ -17,7 +17,7 @@ const props = defineProps({
  .bar:after {
   border-top: 1px solid;
   content: "";
-  width: 3em; /* 線の長さ */
+  width: 2.5em;
   margin: 1rem;
 }
 </style>
